@@ -40,7 +40,7 @@ body,html {
 }
 
 .pimg2 {
-  /* background-image:url('../img/essentials_pic.jpg'); */
+  background-image:url('../img/essentials_pic.jpg');
   min-height: 500px;
 }
 
@@ -51,7 +51,7 @@ body,html {
 }
 
 .pimg4 {
-  /* background-image:url('../img/stranger_night_pic.jpg'); */
+  background-image:url('../img/stranger_night_pic.jpg');
   min-height: 500px;
 }
 
