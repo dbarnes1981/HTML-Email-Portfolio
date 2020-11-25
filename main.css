@@ -45,7 +45,7 @@ body,html {
 }
 
 .pimg3 {
-  /* background-image:url('../img/crosswalk_pic.jpg'); */
+  background-image:url('../img/crosswalk_pic.jpg');
   min-height: 500px;
   /* padding-top: 25px; */
 }
