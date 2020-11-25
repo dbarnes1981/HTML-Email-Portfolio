@@ -35,8 +35,7 @@ body,html {
 }
 
 .pimg1 {
-  background-image:url('../img/pencil-cover.jpg');
-  /* background: rgba(0,0,0,0.5); */
+  /* background-image:url('../img/pencil-cover.jpg'); */
   min-height: 100%;
 }
 
